@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "cave_dweller",
+	"id": "cavedweller",
 	"version": "${version}",
 	"name": "Bedrock Cave Dweller",
 	"description": "Adds the Cave Dweller Add On from Bedrock Edition. Now for Fabric 1.20.1!",

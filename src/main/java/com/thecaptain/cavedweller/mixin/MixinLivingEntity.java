@@ -14,6 +14,7 @@ public class MixinLivingEntity {
     public MixinLivingEntity() {
     }
 
+    // Override movement to stop moving
     @Inject(
             method = "travel",
             at = @At("HEAD"),
@@ -39,6 +40,4 @@ public class MixinLivingEntity {
             cir.setReturnValue(amount);
         }
     }
-
-
 }
