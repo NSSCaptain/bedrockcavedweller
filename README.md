@@ -21,8 +21,6 @@ Since most of the assets used are not my own, I don't know the extent to which I
 ## Plans
 
 - Add "peeking" behaviors
-- Add "catching up" behavior, for when player is too far away
-- Add burnt-out torch mechanic (currently breaks torches)
 - Add ability to remove helmet/held item while attacking
 - Add giving slowness when it's struck before chasing begins
 - Add Dwellings (MAYBE)
